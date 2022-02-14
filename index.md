@@ -1,6 +1,2 @@
-# This is the **HOMEPAGE**.
-Hello there!
-
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
-## Quick Start Notes:
-1. Add images to the *images* folder if the file is referencing an image.
+# ReiMari's Stuff
+The place where I put things. Maybe tutorials, maybe cats. Who knows!

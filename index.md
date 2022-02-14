@@ -1,5 +1,5 @@
 # This is the **HOMEPAGE**.
-Nothing to see here, move along.
+Hello there!
 
 Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
 ## Quick Start Notes:

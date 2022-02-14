@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "D:/Docs/ReiMari.github.io/docfx_project",
+  "source_base_path": "D:/Docs/ReiMari.github.io",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "Oh+FI21o0a7dawBTug/lNIRYSRYXuVM1+YrDCWDuVAo="
+          "hash": "n9cGVTq7MaBPQJr8QUqq3yMo7t+OtKa4Ly0x/jU5lFg="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "e65IoWPsllR67uW0LtMILyz87Tjiyim4Pw3NlQlu8e4="
+          "hash": "em5Zeq0PN/hixX6XDQGX7ejl+h39Qsyctrim+HMGYs0="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "+A7nZ0TuUNLT7GdWlzIJFBUGAEbYX2Xs2QzVwkmu6RA="
+          "hash": "CkqohUSPInpIJH8q6Yvwi/lqcBs4s34ObqAVeSsEVMY="
         }
       },
       "is_incremental": false,
